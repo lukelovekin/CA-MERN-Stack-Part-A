@@ -9,13 +9,13 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 ## Description of the website
 
-### Purpose
+#### Purpose
 
-### Functionality / Features
+#### Functionality / Features
 
-### Target Audience
+#### Target Audience
 
-### Tech Stack
+#### Tech Stack
 
 ## Dataflow Diagram
 
