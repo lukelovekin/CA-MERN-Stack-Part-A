@@ -91,6 +91,15 @@ Shows almost flawless understanding of the high level structure of the app -->
 
 (images)
 
+First draft of wireframes (9am 13th July)
+![WireFrames1](docs/wireframes1.png)
+
+Notes:
+- revise industry standard UI/UX
+- complete relationships between screens
+- focus on  space distribution, content prioritisation, and users intended actions
+
+
 <!-- 12.0 to >10.0 pts
 HD
 Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens. -->
