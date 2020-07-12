@@ -13,17 +13,16 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 #### Functionality / Features
 
-- (last assignment e.gs will delete for redo)
 - Create an account with a secure password
 - Authentication upon sign in
 - Authorisation.
-    - Allowing only owners of posts to edit and delete their posts
-    - Allowing only users signed in to make new posts and comment on others posts
-- The ability to create, read, update and delete posts and comments
-- View everyone's posts on the homepage
-- Contacting the owner of an add via comments.
-- Filter ads buy driver ads or advertisers ads
-- Upload many images to posts to help with the advertisement of an ad.
+    - Allowing only owners of portfolios to edit and delete their portfolios
+    - Allowing only users signed in to make new portfolios
+- The ability to create, read, update and delete portfolios
+- View everyone's portfolios on the homepage
+- Connect with through their portfolio links/buttons
+- Filter portfolios by Actors, Artists, Musicians
+- Upload many images to portfolio to help with self promotion
 
 #### Target Audience
 
@@ -102,7 +101,11 @@ Provides wireframes that show exceptional planning of project flow and structure
 <summary>MVP User Stories</summary>
 
 Users can: 
-- TBC
+- Secure Login
+- Create an account and portfolio page
+- View other portfolios
+- Share partfolio with others
+- Preview Page before deploying
 </details>
 
 <details closed>
