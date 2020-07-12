@@ -93,6 +93,7 @@ Shows almost flawless understanding of the high level structure of the app -->
 
 First draft of wireframes (9am 13th July)
 ![WireFrames1](docs/wireframes1.png)
+
 Notes:
 - revise industry standard UI/UX
 - complete relationships between screens
