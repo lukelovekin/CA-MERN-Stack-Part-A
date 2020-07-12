@@ -7,15 +7,63 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 # image and or advertisement here
 
-## Description of the website
-
 #### Purpose
+
+......
 
 #### Functionality / Features
 
+- (last assignment e.gs will delete for redo)
+- Create an account with a secure password
+- Authentication upon sign in
+- Authorisation.
+    - Allowing only owners of posts to edit and delete their posts
+    - Allowing only users signed in to make new posts and comment on others posts
+- The ability to create, read, update and delete posts and comments
+- View everyone's posts on the homepage
+- Contacting the owner of an add via comments.
+- Filter ads buy driver ads or advertisers ads
+- Upload many images to posts to help with the advertisement of an ad.
+
 #### Target Audience
 
-#### Tech Stack
+Artists, Acters, Musicians etc.....
+
+#### Tech stack (e.g. html, css, deployment platform, etc)
+
+<details closed>
+<summary>Main Stack</summary>
+
+- Javascript
+- MongoDB
+- Express JS
+- React
+- Node JS
+- HTML5 / SCSS
+- Bootstrap
+- VSCode
+- Lucid Chart
+- Trello
+- more
+
+</details>
+
+<details closed>
+<summary>Modules</summary>
+
+- Passport
+- AWS cli
+- more
+
+</details>
+
+<details closed>
+<summary>Third Party Services</summary>
+
+- Netlify/ Heroku/ AWS?
+- Github
+- AWS S3 Bucket
+</details>
 
 ## Dataflow Diagram
 
@@ -41,27 +89,52 @@ Shows almost flawless understanding of the high level structure of the app
 
 ## Wireframes
 
-(image)
+(images)
 
-12.0 to >10.0 pts
+<!-- 12.0 to >10.0 pts
 HD
-Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
+Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens. -->
 
-## User Stories / Trello Screenshot
+## User Stores
 
-breif description wouldnt hurt
+<details closed>
+<summary>MVP User Stories</summary>
 
-(trello screenshot with user stories)
+Users can: 
+- TBC
+</details>
 
-trello/ project management
+<details closed>
+<summary>Sprinkle User Stories</summary>
+
+Users can: 
+- TBC
+</details>
+
+<!-- 6.0 to >5.0 pts
+HD
+Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement. -->
+
+## Project Management
+
+Trello Board Link: https://trello.com/b/vcGGvVN7/mern-stack-assessment
+
+Starting with the planning stage of the project, after thoroughly going over the criteria of the assignment and Rubrik, Our team started with Minimum Viable Product (MVP) ideas. Starting with a Trello board, We split up the assignment's MVP requirements into To-Do cards as well as MVP user stories. The cards include checklists, dates to be completed as well as colour coded labels (red being MVP, most important) to highlight their importance as well as their difficulty/time cost. After the Trello board we set up and layout our Git Repositories adding each of the group users ready for collaborationa and rest of the project. 
+
+MVP Initial Trello board at the start of the project
+![trello](./docs/trello1.PNG)
+
+Our team refer back to the Trello board at least every morning and afternoon, if not every time we finish a tasks. We move cards that we aim to do on that day into the "Doing" column, move cards into the "Done" column when they are complete as well as constantly adding more User Stories and To Dos to their columns to at least aim to complete.
+
+Throughout the day, things that come into mind that will need doing or may cause errors, later on, are noted, commented and even added to the Trello in the appropriate area.
+
+Trello Board End of Planning and Design Stage (Part A)
+![trelloafter]()
+
+<!-- trello/ project management
 6.0 to >5.0 pts
 HD
-Simple and clear standards for planning methodology chosen and adhered to
+Simple and clear standards for planning methodology chosen and adhered to -->
 
-User stories
-6.0 to >5.0 pts
-HD
-Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
-
-## zip -r LukeSkywalker_T3A2-A.zip LukeSkywalker_T3A2-A
+<!-- ## zip -r LukeSkywalker_T3A2-A.zip LukeSkywalker_T3A2-A -->
 
