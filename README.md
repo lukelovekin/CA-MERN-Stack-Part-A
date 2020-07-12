@@ -71,9 +71,9 @@ Artists, Acters, Musicians etc.....
 
 (image)
 
-6.0 to >5.0 pts
+<!-- 6.0 to >5.0 pts
 HD
-Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
+Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored. -->
 
 ## Application Architecture Diagram
 
@@ -83,9 +83,9 @@ still to do
 
 ![AppArcDiagram](docs/aad.jpg)
 
-6.0 to >5.0 pts
+<!-- 6.0 to >5.0 pts
 HD
-Shows almost flawless understanding of the high level structure of the app
+Shows almost flawless understanding of the high level structure of the app -->
 
 ## Wireframes
 
