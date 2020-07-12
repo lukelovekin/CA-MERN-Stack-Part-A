@@ -1,11 +1,11 @@
-# CA-MERN-Stack-Part-A
+# CA-MERN-Stack-Part-A (Replace with Application Name)
 
 T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 - deployed site
 - github repo
 
-# image and or advertisement here
+![image](./docs/portfolio.webp)
 
 #### Purpose
 
@@ -63,6 +63,7 @@ Artists, Acters, Musicians etc.....
 - Netlify/ Heroku/ AWS?
 - Github
 - AWS S3 Bucket
+- Stripe ?
 </details>
 
 ## Dataflow Diagram
