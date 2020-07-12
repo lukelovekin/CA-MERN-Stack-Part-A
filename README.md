@@ -29,9 +29,11 @@ Provides dataflow diagram(s) that strictly follow the standard convensions to cl
 
 ## Application Architecture Diagram
 
+still to do
 - i might need to add a description to better the chances of a HD
+- different front end instances
 
-(image)
+![AppArcDiagram](docs/aad.jpg)
 
 6.0 to >5.0 pts
 HD
