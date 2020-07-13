@@ -102,6 +102,7 @@ Notes:
 - revise industry standard UI/UX
 - complete relationships between screens
 - focus on  space distribution, content prioritisation, and users intended actions
+- add navbar for: sign up, login, home, logout
 
 </details>
 
@@ -118,7 +119,7 @@ Users can:
 - Secure Login
 - Create an account and portfolio page
 - View other portfolios
-- Share partfolio with others
+- Share portfolio with others
 - Preview Page before deploying
 </details>
 
