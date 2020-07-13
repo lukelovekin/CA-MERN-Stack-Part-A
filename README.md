@@ -1,4 +1,5 @@
-# CA-MERN-Stack-Part-A (Replace with Application Name)
+# FreeSpace Portfolio Website
+## CA-MERN-Stack-Part-A (Replace with Application Name)
 
 T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
@@ -9,7 +10,10 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 #### Purpose
 
-......
+Artists currently pay $16 per month to run a portfolio website on services such as Squarespace.
+The purpose of our web app is to provide a free tier to this problem allowing artist to put their portfolio on the internet for free. 
+Allowing users to upload, photos, audio and text into set templates provided by our MERN stack application. Users can then upgrade using our service for custom URLS and add more customisability?. (fonts? Icons? )
+
 
 #### Functionality / Features
 
