@@ -1,10 +1,10 @@
 # FreeSpace Portfolio Website
-## CA-MERN-Stack-Part-A (Replace with Application Name)
+## CA-MERN-Stack-Part-A
 
 T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
-- deployed site
-- github repo
+- Deployed Site: Still to come (Part B)
+- Github Repo: Still to come (Part B)
 
 ![image](./docs/portfolio.webp)
 
