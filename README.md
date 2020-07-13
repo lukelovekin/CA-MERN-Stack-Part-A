@@ -30,7 +30,7 @@ Allowing users to upload, photos, audio and text into set templates provided by 
 
 #### Target Audience
 
-Artists, Acters, Musicians etc.....
+The target audience for FreeSpace will be anyone looking to create a portfolio for themselves
 
 #### Tech stack (e.g. html, css, deployment platform, etc)
 
@@ -122,9 +122,11 @@ Provides wireframes that show exceptional planning of project flow and structure
 ## User Stores
 
 <details closed>
-<summary>MVP User Stories</summary>
+<summary>Initial MVP User Stories</summary>
 
-Users can: 
+- As a Artist, I want to be able to log in so that I can create, edit and delete my own portfolio. 
+- As a Artist, I want a secure login so someone else can't make changes to my portfolio
+
 - Secure Login
 - Create an account and portfolio page
 - View other portfolios
@@ -133,10 +135,22 @@ Users can:
 </details>
 
 <details closed>
-<summary>Sprinkle User Stories</summary>
+<summary> Initial Sprinkle User Stories</summary>
 
-Users can: 
+
 - TBC
+</details>
+
+<details closed>
+<summary>Added MVP User Stories</summary>
+
+-
+</details>
+
+<details closed>
+<summary>Added Sprinkle User Stories</summary>
+
+- 
 </details>
 
 <!-- 6.0 to >5.0 pts
