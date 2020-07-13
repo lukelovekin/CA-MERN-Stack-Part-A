@@ -95,6 +95,7 @@ Link to complete wireframes: https://www.figma.com/file/UV2ORPDQHDbOpmktAvAJfv/U
 
 <details closed>
 <summary>First draft of wireframes (9am 13th July)</summary>
+
 ![WireFrames1](docs/wireframes1.png)
 
 Notes:
