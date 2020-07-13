@@ -30,7 +30,7 @@ Allowing users to upload, photos, audio and text into set templates provided by 
 
 #### Target Audience
 
-The target audience for FreeSpace will be anyone looking to create a portfolio for themselves
+The main target audience for FreeSpace will be Artists, Actors, Musicians and anyone looking to create a deployed portfolio for themselves so they can advertise themselves to potential employers or clients. The other target audience will be Employers, scouts and anyone looking hire these artists for work or gigs or other jobs alike.
 
 #### Tech stack (e.g. html, css, deployment platform, etc)
 
