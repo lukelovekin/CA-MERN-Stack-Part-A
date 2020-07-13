@@ -81,11 +81,16 @@ Provides dataflow diagram(s) that strictly follow the standard convensions to cl
 
 ## Application Architecture Diagram
 
-still to do
-- i might need to add a description to better the chances of a HD
-- different front end instances
+<details closed>
+<summary>First draft of Application Architecture Diagram (3.20pm 13th July)</summary>
 
 ![AppArcDiagram](docs/aad2.jpg)
+
+Notes: 
+- Update as/if Apps/ Middleware/ Third Parties get added
+</details>
+
+
 
 <!-- 6.0 to >5.0 pts
 HD
