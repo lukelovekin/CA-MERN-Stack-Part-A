@@ -12,7 +12,7 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 Artists currently pay $16 per month to run a portfolio website on services such as Squarespace.
 The purpose of our web app is to provide a free tier to this problem allowing artist to put their portfolio on the internet for free. 
-Allowing users to upload, photos, audio and text into set templates provided by our MERN stack application. Users can then upgrade using our service for custom URLS and add more customisability?. (fonts? Icons? )
+Allowing users to upload, photos, audio and text into set templates provided by our MERN stack application. Users can then upgrade using our services for extra custom features like URLS and add more customisability?. (fonts? Icons? )
 
 
 #### Functionality / Features
@@ -149,15 +149,33 @@ Trello Board Link: https://trello.com/b/vcGGvVN7/mern-stack-assessment
 
 Starting with the planning stage of the project, after thoroughly going over the criteria of the assignment and Rubrik, Our team started with Minimum Viable Product (MVP) ideas. Starting with a Trello board, We split up the assignment's MVP requirements into To-Do cards as well as MVP user stories. The cards include checklists, dates to be completed as well as colour coded labels (red being MVP, most important) to highlight their importance as well as their difficulty/time cost. After the Trello board we set up and layout our Git Repositories adding each of the group users ready for collaborationa and rest of the project. 
 
-MVP Initial Trello board at the start of the project
+Our team refers back to the Trello board at least every morning and afternoon, if not every time we finish a tasks.  Most important cards are discussed first and ee move cards that we aim to do on that day into the "Doing" column, move cards into the "Done" column when they are complete as well as constantly adding more User Stories and To Dos to their columns to at least aim to complete.
+
+Throughout the day, things that come into mind that will need doing or may cause errors, later on, are noted via a shared Google Docs, commented on in our shared repository and even added to the Trello in the appropriate area.
+
+<details closed>
+<summary>Trello Screenshots</summary>
+
+
+<details closed>
+<summary>Planning Stage</summary>
+
 ![trello](./docs/trello1.PNG)
+</details>
 
-Our team refer back to the Trello board at least every morning and afternoon, if not every time we finish a tasks. We move cards that we aim to do on that day into the "Doing" column, move cards into the "Done" column when they are complete as well as constantly adding more User Stories and To Dos to their columns to at least aim to complete.
+<details closed>
+<summary>Day 1</summary>
 
-Throughout the day, things that come into mind that will need doing or may cause errors, later on, are noted, commented and even added to the Trello in the appropriate area.
+![trello day 1](./docs/trello2.JPG)
+</details>
 
-Trello Board End of Planning and Design Stage (Part A)
-![trelloafter]()
+<details closed>
+<summary>Day ....</summary>
+
+</details>
+
+
+</details>
 
 <!-- trello/ project management
 6.0 to >5.0 pts
