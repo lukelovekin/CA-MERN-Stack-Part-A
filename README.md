@@ -89,9 +89,12 @@ Shows almost flawless understanding of the high level structure of the app -->
 
 ## Wireframes
 
-(images)
+Wireframes were built using figma.com and regularly updated to keep up with our agile methodology.
 
-First draft of wireframes (9am 13th July)
+Link to complete wireframes: https://www.figma.com/file/UV2ORPDQHDbOpmktAvAJfv/Untitled?node-id=0%3A1
+
+<details closed>
+<summary>First draft of wireframes (9am 13th July)</summary>
 ![WireFrames1](docs/wireframes1.png)
 
 Notes:
@@ -99,6 +102,7 @@ Notes:
 - complete relationships between screens
 - focus on  space distribution, content prioritisation, and users intended actions
 
+</details>
 
 <!-- 12.0 to >10.0 pts
 HD
