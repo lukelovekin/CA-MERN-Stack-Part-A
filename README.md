@@ -161,15 +161,18 @@ Throughout the day, things that come into mind that will need doing or may cause
 <summary>Planning Stage</summary>
 
 ![trello](./docs/trello1.PNG)
+
 </details>
 
 <details closed>
 <summary>Day 1</summary>
 
 ![trello day 1](./docs/trello2.JPG)
+
 </details>
 
 <details closed>
+
 <summary>Day ....</summary>
 
 </details>
