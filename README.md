@@ -142,14 +142,21 @@ Provides wireframes that show exceptional planning of project flow and structure
 <details closed>
 <summary>Initial MVP User Stories</summary>
 
-- As a Artist, I want to be able to log in so that I can create, edit and delete my own portfolio. 
-- As a Artist, I want a secure login so someone else can't make changes to my portfolio
+- As an artist, I want to be able to login, so that I can create edit and delete my portfolio
+- As an artist I want to create an account and portfolio
+- As an employer / potential client, I want to view an artist's portfolio
+- As an artist I want to preview my portfolio before deploying it
+- As an artist I want to upload my bio to my portfolio page
+- As an artist I want the option of adding photos to my portfolio
+- As an artist I want to show how I can be contacted on my portfolio (social media links, email)
+- As an artist I want to select an attractive template to build my portfolio
+- As a user, I want a nice design /UI/UX experience, intuitive
+- As a user, I want to sign in, up, out
+- As a user, I want to access basic information about the site
+- As an artist I want my account to have a Secure Login
 
-- Secure Login
-- Create an account and portfolio page
-- View other portfolios
-- Share portfolio with others
-- Preview Page before deploying
+</details>
+
 </details>
 
 <details closed>
