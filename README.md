@@ -24,9 +24,17 @@ Allowing users to upload, photos, audio and text into set templates provided by 
     - Allowing only users signed in to make new portfolios
 - The ability to create, read, update and delete portfolios
 - View everyone's portfolios on the homepage
-- Connect with through their portfolio links/buttons
+- Connect with Artists through their portfolio links/buttons
 - Filter portfolios by Actors, Artists, Musicians
 - Upload many images to portfolio to help with self promotion
+- Upload audio
+- Show a Portfolio Preview before Deploying
+- Choose custom templates for an online portfolio
+- Nice UI/UX design
+- Sign up/ Sign out
+- Responsive Webpage
+- See how many people have seen your portfolio
+<!-- Add more if we think of them -->
 
 #### Target Audience
 
@@ -47,7 +55,7 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 - VSCode
 - Lucid Chart
 - Trello
-- more
+<!-- more -->
 
 </details>
 
@@ -56,17 +64,18 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 
 - Passport
 - AWS cli
-- more
+<!-- more -->
 
 </details>
 
 <details closed>
 <summary>Third Party Services</summary>
 
-- Netlify/ Heroku/ AWS?
+- Netlify/ Heroku/ AWS (TBC)
 - Github
 - AWS S3 Bucket
-- Stripe ?
+<!-- - Stripe  -->
+<!-- more -->
 </details>
 
 ## Dataflow Diagram
