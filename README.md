@@ -12,7 +12,7 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 Artists currently pay $16 per month to run a portfolio website on services such as Squarespace.
 The purpose of our web app is to provide a free tier to this problem allowing artist to put their portfolio on the internet for free. 
-Allowing users to upload, photos, audio and text into set templates provided by our MERN stack application. Users can then upgrade using our services for extra custom features like URLS and add more customisability?. (fonts? Icons? )
+Allowing users to upload, photos, audio and text into set templates provided by our MERN stack application. In the future, users can then upgrade using our services for extra custom features like URLS and add more customisability.
 
 
 #### Functionality / Features
@@ -112,6 +112,27 @@ Notes:
 - complete relationships between screens
 - focus on  space distribution, content prioritisation, and users intended actions
 - add navbar for: sign up, login, home, logout
+
+</details>
+
+<details closed>
+<summary>Desktop version updated (5pm 13th July)</summary>
+
+![WireFrames2](docs/wireframes2.png)
+
+This version is complete prototyping and features for desktop version. Logout buttons added to most pages.
+Notes:
+- need to also complete desktop and mobile versions
+- more design and color elements may be nice to add if time permits 
+
+</details>
+
+<details closed>
+<summary>Complete Wireframes (10am 14th July)</summary>
+
+![WireFrames3](docs/wireframes3.png)
+
+Prototyping for all screen sizes complete. Mobile and tablet logout buttons added. Login page added to mobile and tablet. Some annotations added for more clarity.
 
 </details>
 
