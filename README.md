@@ -142,21 +142,32 @@ Provides wireframes that show exceptional planning of project flow and structure
 <details closed>
 <summary>Initial MVP User Stories</summary>
 
-- As a Artist, I want to be able to log in so that I can create, edit and delete my own portfolio. 
-- As a Artist, I want a secure login so someone else can't make changes to my portfolio
+- As an artist, I want to be able to login, so that I can create edit and delete my portfolio
+- As an artist I want to create an account and portfolio, so I can advirtise my art
+- As an employer / potential client, I want to view an artist's portfolio to see their work
+- As an artist I want to preview my portfolio before deploying it to make sure it looks good
+- As an artist I want to upload my bio to my portfolio page so people can read about my career
+- As an artist I want the option of adding photos to my portfolio to show my work
+- As an artist I want to show how I can be contacted on my portfolio (social media links, email) to share and expand my network
+- As an artist I want to select an attractive template to build my portfolio so I can make my portfolio looking good
+- As an artist I want my account to have a Secure Login so I can make my information won't be hacked 
+- As a user, I want a nice design /UI/UX experience, intuitive
+- As a user, I want to sign in, up, out
+- As a user, I want to access basic information about the site to make sure how it works
 
-- Secure Login
-- Create an account and portfolio page
-- View other portfolios
-- Share portfolio with others
-- Preview Page before deploying
+
+</details>
+
 </details>
 
 <details closed>
 <summary> Initial Sprinkle User Stories</summary>
 
+- As a user I want my page responsive so the web page will display nicely and will provide a quality user experience
+- As a user, I want to choose a filter of actors, artist, musicians to view only
+- As an artist I want to share my portfolio with potential employers/clients so I can expand my work
+- As an artist I want to see how many people looked my portfolio so I can an idea of how many people are looking at my portfolio
 
-- TBC
 </details>
 
 <details closed>
