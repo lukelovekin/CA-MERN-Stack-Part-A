@@ -134,9 +134,6 @@ Notes:
 
 Prototyping for all screen sizes complete. Mobile and tablet logout buttons added. Login page added to mobile and tablet. Some annotations added for more clarity.
 
-Notes:
-- 
-
 </details>
 
 <!-- 12.0 to >10.0 pts
