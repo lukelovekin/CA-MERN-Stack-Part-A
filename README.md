@@ -72,7 +72,7 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 ## Dataflow Diagram
 
 <details closed>
-<summary>Iniitial MVP DataFlow Diagram (12am 14th July)</summary>
+<summary>Initial MVP DataFlow Diagram (12am 14th July)</summary>
 
 ![dataflowdiagram](docs/dfd.JPG)
 
