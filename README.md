@@ -72,20 +72,9 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 ## Dataflow Diagram
 
 <details closed>
-<summary>DataFlow Diagram (12am 14th July)</summary>
+<summary>Iniitial MVP DataFlow Diagram (12am 14th July)</summary>
 
 ![dataflowdiagram](docs/dfd.JPG)
-
-</details>
-
-
-
-## Application Architecture Diagram
-
-<details closed>
-<summary>First draft of Application Architecture Diagram (3.20pm 13th July)</summary>
-
-![AppArcDiagram](docs/aad2.jpg)
 
 Notes: 
 - Update as/if Apps/ Middleware/ Third Parties get added
@@ -93,9 +82,16 @@ Notes:
 
 
 
-<!-- 6.0 to >5.0 pts
-HD
-Shows almost flawless understanding of the high level structure of the app -->
+## Application Architecture Diagram
+
+<details closed>
+<summary>Initial Application Architecture Diagram (3.20pm 13th July)</summary>
+
+![AppArcDiagram](docs/aad2.jpg)
+
+Notes: 
+- Update as/if Apps/ Middleware/ Third Parties get added
+</details>
 
 ## Wireframes
 
