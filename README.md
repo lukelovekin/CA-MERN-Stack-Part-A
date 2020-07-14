@@ -115,6 +115,29 @@ Notes:
 
 </details>
 
+<details closed>
+<summary>Desktop version updated (5pm 13th July)</summary>
+
+![WireFrames2](docs/wireframes2.png)
+
+This version is complete prototyping and features for desktop version. Logout buttons added to most pages.
+Notes:
+- need to also complete desktop and mobile versions
+- more design and color elements may be nice to add if time permits 
+
+</details>
+
+<details closed>
+<summary>Complete Wireframes(10am 14th July)</summary>
+
+![WireFrames3](docs/wireframes3.png)
+
+Notes:
+- 
+- 
+
+</details>
+
 <!-- 12.0 to >10.0 pts
 HD
 Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens. -->
