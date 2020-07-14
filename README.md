@@ -71,7 +71,14 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 
 ## Dataflow Diagram
 
+<details closed>
+<summary>Complete Wireframes (12am 14th July)</summary>
+
 ![dataflowdiagram](docs/dfd.JPG)
+
+</details>
+
+
 
 ## Application Architecture Diagram
 
