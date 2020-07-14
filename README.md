@@ -128,14 +128,13 @@ Notes:
 </details>
 
 <details closed>
-<summary>Complete Wireframes(10am 14th July)</summary>
+<summary>Complete Wireframes (10am 14th July)</summary>
 
 ![WireFrames3](docs/wireframes3.png)
 
-Prototyping for all screen sizes complete. Mobile and tablet logout buttons added. Login page added to mobile and tablet. Some annoatations added for more clarity.
+Prototyping for all screen sizes complete. Mobile and tablet logout buttons added. Login page added to mobile and tablet. Some annotations added for more clarity.
 
 Notes:
-- 
 - 
 
 </details>
