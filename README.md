@@ -132,6 +132,8 @@ Notes:
 
 ![WireFrames3](docs/wireframes3.png)
 
+Prototyping for all screen sizes complete. Mobile and tablet logout buttons added. Login page added to mobile and tablet. Some annoatations added for more clarity.
+
 Notes:
 - 
 - 
