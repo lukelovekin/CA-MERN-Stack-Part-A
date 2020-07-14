@@ -144,13 +144,13 @@ Provides wireframes that show exceptional planning of project flow and structure
 <details closed>
 <summary>Added MVP User Stories</summary>
 
--
+- TBC
 </details>
 
 <details closed>
 <summary>Added Sprinkle User Stories</summary>
 
-- 
+- TBC
 </details>
 
 <!-- 6.0 to >5.0 pts
