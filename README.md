@@ -118,12 +118,23 @@ Notes:
 <details closed>
 <summary>Desktop version updated (5pm 13th July)</summary>
 
-![WireFrames1](docs/wireframes2.png)
+![WireFrames2](docs/wireframes2.png)
 
 This version is complete prototyping and features for desktop version. Logout buttons added to most pages.
 Notes:
 - need to also complete desktop and mobile versions
 - more design and color elements may be nice to add if time permits 
+
+</details>
+
+<details closed>
+<summary>Complete Wireframes(10am 14th July)</summary>
+
+![WireFrames3](docs/wireframes3.png)
+
+Notes:
+- 
+- 
 
 </details>
 
