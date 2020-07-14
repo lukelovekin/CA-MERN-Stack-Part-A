@@ -71,13 +71,7 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 
 ## Dataflow Diagram
 
-- doesnt seem to need a description or anything to meet HD reqs
-
-(image)
-
-<!-- 6.0 to >5.0 pts
-HD
-Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored. -->
+![dataflowdiagram](docs/dfd.JPG)
 
 ## Application Architecture Diagram
 
