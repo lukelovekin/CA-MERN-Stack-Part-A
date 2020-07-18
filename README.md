@@ -3,8 +3,11 @@
 
 T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
-- Deployed Site: Still to come (Part B)
-- Github Repo: Still to come (Part B)
+- Deployed Front End Site: https://free-space.gq/
+- Deployed Back End Site: https://free-space-api.herokuapp.com/
+- Github Repo Part A docs: https://github.com/lukelovekin/CA-MERN-Stack-Part-A
+- Github Repo Part B Front-End: https://github.com/lukelovekin/FreeSpace-FrontEnd
+- Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Api
 
 ![image](./docs/portfolio.webp)
 
@@ -55,7 +58,6 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 - VSCode
 - Lucid Chart
 - Trello
-<!-- more -->
 
 </details>
 
@@ -63,19 +65,22 @@ The main target audience for FreeSpace will be Artists, Actors, Musicians and an
 <summary>Modules</summary>
 
 - Passport
-- AWS cli
-<!-- more -->
+- Axios
+- React-Bootstrap
+- React-Dom-Router
+- Cors
+- TBC if more to come (Part B)
 
 </details>
 
 <details closed>
 <summary>Third Party Services</summary>
 
-- Netlify/ Heroku/ AWS (TBC)
+- Netlify (Front End/ Heroku Back end)
 - Github
 - AWS S3 Bucket
-<!-- - Stripe  -->
-<!-- more -->
+- Google Authentication
+- Stripe 
 </details>
 
 ## Dataflow Diagram
@@ -96,7 +101,7 @@ Notes:
 <details closed>
 <summary>Initial Application Architecture Diagram (3.20pm 13th July)</summary>
 
-![AppArcDiagram](docs/aad2.jpg)
+![AppArcDiagram](docs/aad.jpg)
 
 Notes: 
 - Update as/if Apps/ Middleware/ Third Parties get added
@@ -142,10 +147,6 @@ Prototyping for all screen sizes complete. Mobile and tablet logout buttons adde
 
 </details>
 
-<!-- 12.0 to >10.0 pts
-HD
-Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens. -->
-
 ## User Stores
 
 <details closed>
@@ -190,10 +191,6 @@ Provides wireframes that show exceptional planning of project flow and structure
 - TBC
 </details>
 
-<!-- 6.0 to >5.0 pts
-HD
-Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement. -->
-
 ## Project Management
 
 Trello Board Link: https://trello.com/b/vcGGvVN7/mern-stack-assessment
@@ -223,24 +220,19 @@ Throughout the day, things that come into mind that will need doing or may cause
 </details>
 
 <details closed>
-<summary>Day 2</summary>
+<summary>Last day of Part A</summary>
 
-![trello day 2](./docs/trello3.JPG)
+![trello day 2](./docs/trello5.JPG)
+
+</details>
 
 </details>
 
 <details closed>
-<summary>Day ....</summary>
+<summary>Shared notes, Google Docs</summary>
+
+![shared notes](./docs/notes.JPG)
 
 </details>
 
-
-</details>
-
-<!-- trello/ project management
-6.0 to >5.0 pts
-HD
-Simple and clear standards for planning methodology chosen and adhered to -->
-
-<!-- ## zip -r LukeSkywalker_T3A2-A.zip LukeSkywalker_T3A2-A -->
 
